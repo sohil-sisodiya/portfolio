@@ -6,6 +6,7 @@ aimed to develop a predictive model that identifies telecom customers who are li
 
 
 ### E-commerce Data Analysis using Python
+A comprehensive analytical case study aimed at extracting actionable insights from historical sales and customer data of an online retail platform. This project utilizes Python and a suite of powerful data analysis libraries to uncover key patterns in customer behavior, product performance, regional sales trends, and more.
 [learn more](#)
 
 

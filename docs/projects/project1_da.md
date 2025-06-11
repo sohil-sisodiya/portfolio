@@ -87,7 +87,3 @@ The confusion matrix and ROC curve indicated strong classification performance, 
 ## Repository
 
 [🔗 GitHub Repository](https://github.com/yourusername/customer-churn-prediction)
-
----
-
-This project highlights my end-to-end data science skills—from problem understanding and data preparation to model building, evaluation, and deployment. It also reflects my focus on making results interpretable and useful for real business decisions.
