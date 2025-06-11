@@ -2,7 +2,7 @@
 
 I'm Sohil Sisodiya, a data scientist with a strong interest in solving complex problems through data. My work combines analytical thinking, statistical rigor, and a deep curiosity about how things work.
 
-I hold a degree in Mechanical Engineering from [Institute of Engg. and Technology, DAVV](https://ietdavv.edu.in/), applying data science to improve systems and support informed decision-making.
+I hold a degree in Mechanical Engineering from [Institute of Engineeering & Technology, DAVV](https://ietdavv.edu.in/), applying data science to improve systems and support informed decision-making.
 
 ## My Approach
 
@@ -22,7 +22,7 @@ I approach data science as both a technical and a communication challenge. A goo
 
 ## Values and Interests
 
-I'm particularly interested in the intersection of data science and [something you're passionate about—e.g. public policy, environmental science, education, etc.]. I value transparency, reproducibility, and lifelong learning.
+I'm particularly interested in the intersection of data science and public policy, cricket and education. I value transparency, reproducibility, and lifelong learning.
 
 Outside of work, I enjoy reading non-fiction, hiking, exploring new datasets, writing articles.
 

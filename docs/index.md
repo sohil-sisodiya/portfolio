@@ -17,6 +17,7 @@ My goal is to build trustworthy, interpretable, and impactful data solutions gro
 - [About Me](about.md) – Learn more about my background, philosophy, and skills.  
 - [Projects](projects/index.md) – A showcase of my recent work, from analysis to deployment.  
 - [Articles](#) – Thoughts and tutorials on data science, machine learning, and more.
+- [Codebook](codebook/index.md) – A living document of helpful code snippets, notes, and tools
 
 
 
@@ -25,5 +26,5 @@ My goal is to build trustworthy, interpretable, and impactful data solutions gro
 I’m always interested in exchanging ideas and staying connected with the data science community.
 
 - Email: [sohilsisodiya12@email.com](mailto:sohilsisodiya12@gmail.com)
-- LinkedIn: [linkedin.com/in/yourusername](#)  
-- GitHub: [github.com/yourusername](#)
+- LinkedIn: [linkedin.com/in/sohil-sisodiya](https://linkedin.com/in/sohil-sisodiya)  
+- GitHub: [github.com/sohil-sisodiya](https://github.com/sohil-sisodiya)

@@ -11,15 +11,18 @@ nav:
   - Codebook: codebook/index.md
 
 
+# add repo
+repo_url: https://github.com/sohil-sisodiya/portfolio
+repo_name: sohil-sisodiya/portfolio
 
 theme:
   name: material
   # custom_dir: overrides
   palette:
-      # light mode
-    - scheme: default
-      # primary: blue grey
-      accent: purple
+ 
+    # light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
       toggle:
         icon: material/light-flood-up
         name: Switch to dark mode
@@ -30,12 +33,15 @@ theme:
       toggle:
         icon: material/light-flood-down
         name: Switch to light mode
+  
+
   # logo
   icon:
-    logo: fontawesome/solid/barcode
+    logo: simple/numba
+    repo: octicons/git-branch-24
+  
 
-
-  # favicon: favicon.ico
+  #favicon: favicon.ico
   features:
     - navigation.instant
     - navigation.tracking
@@ -51,16 +57,16 @@ extra:
   social:
     
     - icon: fontawesome/brands/x-twitter
-      link: https://fosstodon.org/@squidfunk
+      link: https://x.com/sohilverse
   
     - icon: fontawesome/brands/github
-      link: https://fosstodon.org/@squidfunk
+      link: https://github.com/sohil-sisodiya
 
     - icon: fontawesome/brands/linkedin
-      link: https://fosstodon.org/@squidfunk
+      link: https://linkedin.com/in/sohil-sisodiya
     
     - icon: fontawesome/solid/paper-plane
-      link: mailto:<email-address>
+      link: mailto:<sohilsisodiya12@gmil.com>
 
 
 # extra_css:
@@ -86,4 +92,4 @@ markdown_extensions:
   - pymdownx.mark
 
 
-copyright: Copyright &copy; 2025 - sohilverse
+copyright: "© 2025 sohilsisodiya. All rights reserved."
