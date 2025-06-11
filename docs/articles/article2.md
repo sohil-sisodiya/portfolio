@@ -88,9 +88,3 @@ Use these techniques:
 Understanding overfitting and underfitting is essential to developing effective machine learning models. Striking the right balance—often called the **bias-variance tradeoff**—ensures your model can generalize well to new data.
 
 By regularly evaluating your model and tuning its complexity, you can build models that are both accurate and robust.
-
----
-
-**Author:** Your Name  
-**Website:** [yourwebsite.com](http://yourwebsite.com)  
-**Tags:** Machine Learning, Overfitting, Underfitting, Model Evaluation, Python ML
