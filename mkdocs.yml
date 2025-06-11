@@ -1,0 +1,88 @@
+site_name: Sohil Sisodiya
+nav:
+  - Home: index.md
+  - About: about.md
+  - Projects: projects/index.md
+    # - Customer Churn Prediction: projects/project1.md
+    # - Project two: projects/project2.md
+  - Articles:
+    - Named Entity Recognition: articles/article1.md
+  - Codebook: codebook/index.md
+
+
+
+theme:
+  name: material
+  # custom_dir: overrides
+  palette:
+      # light mode
+    - scheme: default
+      # primary: blue grey
+      accent: purple
+      toggle:
+        icon: material/light-flood-up
+        name: Switch to dark mode
+
+        # dark mode
+    - scheme: slate
+      primary: black
+      toggle:
+        icon: material/light-flood-down
+        name: Switch to light mode
+  # logo
+  icon:
+    logo: fontawesome/solid/barcode
+
+
+  # favicon: favicon.ico
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - toc.follow
+    - search.suggest
+    - content.code.copy
+
+extra:
+  generator: false
+  social:
+    
+    - icon: fontawesome/brands/x-twitter
+      link: https://fosstodon.org/@squidfunk
+  
+    - icon: fontawesome/brands/github
+      link: https://fosstodon.org/@squidfunk
+
+    - icon: fontawesome/brands/linkedin
+      link: https://fosstodon.org/@squidfunk
+    
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:<email-address>
+
+
+# extra_css:
+#   - assets/stylesheets/extra.css
+
+# extra_javascript:
+#   - javascripts/extra.js
+  
+
+plugins:
+  - search
+
+
+# code block 
+markdown_extensions:
+  - toc:
+      permalink: true
+  - pymdownx.extra
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.mark
+
+
+copyright: Copyright &copy; 2025 - sohilverse
