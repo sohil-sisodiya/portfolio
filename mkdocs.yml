@@ -5,9 +5,10 @@ nav:
   - Projects: projects/index.md
     # - Customer Churn Prediction: projects/project1.md
     # - Project two: projects/project2.md
+  - Articles:
+    - Named Entity Recognition: articles/article1.md
+    - Understanding Overfitting and Underfitting in Machine Learning: articles/article2.md
   - Codebook: codebook/index.md
-  - blog:
-    - blog/index.md
 
 
 # add repo
@@ -50,7 +51,6 @@ theme:
     - toc.follow
     - search.suggest
     - content.code.copy
-    - blog
 
 extra:
   generator: false
@@ -85,13 +85,30 @@ plugins:
 # code block 
 markdown_extensions:
   - toc:
-      permalink: true
+      permalink: ⚓︎
+      toc_depth: 2
+
   - pymdownx.extra
-  - pymdownx.highlight
+  - pymdownx.betterem
+  - pymdownx.highlight:
+      anchor_linenums: true
+      # auto_title: true
+      # linenums: true
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
   - pymdownx.mark
+
+  # this is for tabs - it allows you to create tabbed content.
+  - pymdownx.tabbed:
+      alternate_style: true
+
+  # this is for admonition - it is used to create callouts like note, warning, tip, etc.
+  - admonition
+
+  # this is for code block attributes - it allows you to add attributes to code blocks
+  - attr_list
+
 
 
 copyright: "© 2025 sohilsisodiya. All rights reserved."
