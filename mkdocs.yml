@@ -5,10 +5,9 @@ nav:
   - Projects: projects/index.md
     # - Customer Churn Prediction: projects/project1.md
     # - Project two: projects/project2.md
-  - Articles:
-    - Named Entity Recognition: articles/article1.md
-    - Understanding Overfitting and Underfitting in Machine Learning: articles/article2.md
   - Codebook: codebook/index.md
+  - Blog: 
+    - blog/index.md
 
 
 # add repo
@@ -44,6 +43,7 @@ theme:
   #favicon: favicon.ico
   features:
     - navigation.instant
+    - navigation.indexes
     - navigation.tracking
     - navigation.tabs
     - navigation.sections
