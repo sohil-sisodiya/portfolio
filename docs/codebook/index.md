@@ -9,7 +9,7 @@ Python is both compiled and interpreted, object-oriented, high level programming
 - Tuples [link](python/tuples.md)
 - Dictionaries [link](python/dic.md)
 - File and Error Handling [link](python/file-and-error-handling.md)
-- Modules and Packages [link](#)
+- Modules and Packages [link](python/module-and-packages.md)
 - Object Oriented Programming [link](#)
 
 ## Data Analysis
@@ -28,7 +28,7 @@ Python is both compiled and interpreted, object-oriented, high level programming
 ## Machine Learning
 Machine learning is a *subfield of artificial intelligence*, which is broadly defined as the **capability of a machine to imitate intelligent human behavior**. 
 
-- Gathering Data [link](#)
+- Gathering Data [link](machine-learning/gathering-data.md)
 - Machine Learning Basics [link](#)
 - Tensors [link](#)
 - Understanding Data [link](#)
