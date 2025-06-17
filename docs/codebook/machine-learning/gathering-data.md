@@ -1,3 +1,5 @@
+# Gathering Data
+
 There are several type of method of gathering data
 - Working with CSV files
 - JSON/SQL
