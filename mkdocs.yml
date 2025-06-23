@@ -3,9 +3,6 @@ nav:
   - Home: index.md
   - About: about.md
   - Projects: projects/index.md
-    # - Customer Churn Prediction: projects/project1.md
-    # - Project two: projects/project2.md
-  - Codebook: codebook/index.md
   - Blog: 
     - blog/index.md
 
